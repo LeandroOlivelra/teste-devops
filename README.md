@@ -5,5 +5,5 @@
 Para seguir aprendendo e conseguir um emprego melhor, digite:
 
 ```
-npm install react
+node app.js
 ```
